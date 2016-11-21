@@ -4,8 +4,9 @@ public class ejmeplo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub.     
-        //  hola local 2
+        //  hola locales
 		// no me importa
+        
 		
 
 
