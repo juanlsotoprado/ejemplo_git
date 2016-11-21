@@ -8,7 +8,7 @@ public class ejmeplo {
 		//Git local nuevo
 		//Git remoto 2
 		//Git remoto 3
-		//Git otrooooooo
+		//Git otrooooooos
 
 }
 }
