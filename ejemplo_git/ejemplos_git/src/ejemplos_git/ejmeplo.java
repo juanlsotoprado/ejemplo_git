@@ -6,10 +6,11 @@ public class ejmeplo {
 		// TODO Auto-generated method stub.     
 		//Git remoto leoleo6
 		//Git local 
-		//Git remoto 2
+		//Git remoto 
 		//Git remoto 3
-		//Git otrooooooos
-		aSAsASAsAS
+		//Git o  trooooooos
+
+
 
 }
 }
