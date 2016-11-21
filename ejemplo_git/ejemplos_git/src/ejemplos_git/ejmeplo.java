@@ -4,7 +4,6 @@ public class ejmeplo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub.     
-		//Git local 1
-	}
+		//Git remoto 1
 
 }
