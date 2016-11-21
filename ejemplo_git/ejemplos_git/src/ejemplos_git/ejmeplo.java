@@ -4,9 +4,8 @@ public class ejmeplo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub.     
-		//te amo erwwerwerwerwe
+		//te amo 
 		//leoleo
-		//aweaeawe
 	
 		
 
